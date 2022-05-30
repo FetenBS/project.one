@@ -3,3 +3,4 @@ Task
 task1
 task2
 create page home
+create page video
